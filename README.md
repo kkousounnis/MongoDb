@@ -10,3 +10,4 @@ https://docs.docker.com/engine/install/ubuntu/#installation-methods
 
 ![image](https://user-images.githubusercontent.com/39504405/146694864-568ac978-3414-47cd-839d-6a6c13ac7c8a.png)
 
+For the whole analysis of the project open mongoDb_analysis.pdf
